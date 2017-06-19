@@ -1,7 +1,7 @@
 # Discussions [DEPRECATED]
 
 __*NOTICE*__: This repository is deprecated. Please create future discussion
-issues in https://github.com/hackedu/meta and use the `discussion` tag.
+issues in https://github.com/hackedu/hackclub.
 
 -------------------------------------------------------------------------------
 
